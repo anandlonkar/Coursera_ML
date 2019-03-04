@@ -1,12 +1,16 @@
 Introduction - Business problem
 Where do I setup my next Montessori?
 My sons Montessori school is in process of expanding to other areas. They already have presence in 2 zip codes within the Dallas Fort Worth metroplex and both are quite successful. Assuming that both the locations that they have share some common characteristics (demographic information, percentage of preschoolers, household income, presence of other day cares/schools nearby) I am trying to figure out the best zip code to setup a similar school in the 100 miles radius of my zipcode
+The owner of the Montessori school will benefit from this analysis and hopefully will take the recommendation from this exercise
 
 Data Needed
 I am looking for the following information
 All Zip codes within 100 miles of my location - Data from https://www.zipcodestogo.com/lookups/radius-search.php
 Census Data for each zip code - To find percentage of children under age of 5 in each areas, household income etc
 Foursquare API - to find educational institutions in each of the zip codes
+Combining this data together will give a picture of what the current neighborhood looks like from a setup perspective and what the potential sites look like.
+
 
 Methodology
-Based on the above data for each of the zip codes, I want to find the optimum cluster which contains both the current locations. The other Zipcodes in this cluster will share same characteristics as the 2 that currently have the locations. If there are multiple zip codes in the same cluster apart from these 2 the winner will be selected on the highest number of preschoolers/Number of educational institutions ratio
+Based on the above data for each of the zip codes, I want to find the optimum cluster which contains both the current locations. The other Zipcodes in this cluster will share same characteristics as the 2 that currently have the locations. If there are multiple zip codes in the same cluster apart from these 2 the winner will be selected on the highest number of preschoolers/Number of educational institutions ratio.
+For example : Neighborhoods that have median income of more than 100k and have less number of montessori schools and have more number of kids in the preschool age will be classified together with the current 2 neighborhoods and will be candidates for further exploration. The ratio described above will be used to sort neighborhoods within the cluster.
