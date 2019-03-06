@@ -1,0 +1,690 @@
+﻿Zip Code,City,County
+73030,"Davis, OK",Murray
+73032,"Dougherty, OK",Murray
+73086,"Sulphur, OK",Murray
+73401,"Ardmore, OK",Carter
+73402,"Ardmore, OK",Carter
+73403,"Ardmore, OK",Carter
+73425,"Countyline, OK",Stephens
+73430,"Burneyville, OK",Love
+73432,"Coleman, OK",Johnston
+73435,"Fox, OK",Carter
+73436,"Gene Autry, OK",Carter
+73437,"Graham, OK",Carter
+73438,"Healdton, OK",Carter
+73439,"Kingston, OK",Marshall
+73440,"Lebanon, OK",Marshall
+73441,"Leon, OK",Love
+73442,"Loco, OK",Stephens
+73443,"Lone Grove, OK",Carter
+73444,"Hennepin, OK",Carter
+73446,"Madill, OK",Marshall
+73447,"Mannsville, OK",Johnston
+73448,"Marietta, OK",Love
+73449,"Mead, OK",Bryan
+73450,"Milburn, OK",Johnston
+73453,"Overbrook, OK",Love
+73455,"Ravia, OK",Johnston
+73456,"Ringling, OK",Jefferson
+73458,"Springer, OK",Carter
+73459,"Thackerville, OK",Love
+73460,"Tishomingo, OK",Johnston
+73461,"Wapanucka, OK",Johnston
+73463,"Wilson, OK",Carter
+73481,"Ratliff City, OK",Carter
+73520,"Addington, OK",Jefferson
+73561,"Oscar, OK",Jefferson
+73565,"Ryan, OK",Jefferson
+73569,"Terral, OK",Jefferson
+73573,"Waurika, OK",Jefferson
+74523,"Antlers, OK",Pushmataha
+74525,"Atoka, OK",Atoka
+74530,"Bromide, OK",Johnston
+74533,"Caney, OK",Atoka
+74535,"Clarita, OK",Coal
+74542,"Farris, OK",Atoka
+74555,"Lane, OK",Atoka
+74556,"Lehigh, OK",Coal
+74701,"Durant, OK",Bryan
+74702,"Durant, OK",Bryan
+74720,"Achille, OK",Bryan
+74721,"Albany, OK",Bryan
+74723,"Bennington, OK",Bryan
+74726,"Bokchito, OK",Bryan
+74727,"Boswell, OK",Choctaw
+74729,"Caddo, OK",Bryan
+74730,"Calera, OK",Bryan
+74731,"Cartwright, OK",Bryan
+74733,"Colbert, OK",Bryan
+74738,"Grant, OK",Choctaw
+74741,"Hendrix, OK",Bryan
+74743,"Hugo, OK",Choctaw
+74747,"Kemp, OK",Bryan
+74748,"Kenefic, OK",Johnston
+74753,"Platter, OK",Bryan
+74756,"Sawyer, OK",Choctaw
+74759,"Soper, OK",Choctaw
+74836,"Connerville, OK",Johnston
+74856,"Mill Creek, OK",Johnston
+75001,"Addison, TX",Dallas
+75002,"Allen, TX",Collin
+75006,"Carrollton, TX",Dallas
+75007,"Carrollton, TX",Denton
+75009,"Celina, TX",Collin
+75010,"Carrollton, TX",Denton
+75011,"Carrollton, TX",Dallas
+75013,"Allen, TX",Collin
+75014,"Irving, TX",Dallas
+75015,"Irving, TX",Dallas
+75016,"Irving, TX",Dallas
+75017,"Irving, TX",Dallas
+75019,"Coppell, TX",Dallas
+75020,"Denison, TX",Grayson
+75021,"Denison, TX",Grayson
+75022,"Flower Mound, TX",Denton
+75023,"Plano, TX",Collin
+75024,"Plano, TX",Collin
+75025,"Plano, TX",Collin
+75026,"Plano, TX",Collin
+75027,"Flower Mound, TX",Denton
+75028,"Flower Mound, TX",Denton
+75029,"Lewisville, TX",Denton
+75030,"Rowlett, TX",Dallas
+75032,"Rockwall, TX",Rockwall
+75034,"Frisco, TX",Denton
+75035,"Frisco, TX",Collin
+75037,"Irving, TX",Dallas
+75038,"Irving, TX",Dallas
+75039,"Irving, TX",Dallas
+75040,"Garland, TX",Dallas
+75041,"Garland, TX",Dallas
+75042,"Garland, TX",Dallas
+75043,"Garland, TX",Dallas
+75044,"Garland, TX",Dallas
+75045,"Garland, TX",Dallas
+75046,"Garland, TX",Dallas
+75047,"Garland, TX",Dallas
+75048,"Sachse, TX",Dallas
+75049,"Garland, TX",Dallas
+75050,"Grand Prairie, TX",Dallas
+75051,"Grand Prairie, TX",Dallas
+75052,"Grand Prairie, TX",Dallas
+75053,"Grand Prairie, TX",Dallas
+75054,"Grand Prairie, TX",Dallas
+75056,"The Colony, TX",Denton
+75057,"Lewisville, TX",Denton
+75058,"Gunter, TX",Grayson
+75060,"Irving, TX",Dallas
+75061,"Irving, TX",Dallas
+75062,"Irving, TX",Dallas
+75063,"Irving, TX",Dallas
+75065,"Lake Dallas, TX",Denton
+75067,"Lewisville, TX",Denton
+75068,"Little Elm, TX",Denton
+75069,"Mckinney, TX",Collin
+75070,"Mckinney, TX",Collin
+75071,"Mckinney, TX",Collin
+75074,"Plano, TX",Collin
+75075,"Plano, TX",Collin
+75076,"Pottsboro, TX",Grayson
+75077,"Lewisville, TX",Denton
+75078,"Prosper, TX",Collin
+75080,"Richardson, TX",Dallas
+75081,"Richardson, TX",Dallas
+75082,"Richardson, TX",Dallas
+75083,"Richardson, TX",Dallas
+75085,"Richardson, TX",Dallas
+75086,"Plano, TX",Collin
+75087,"Rockwall, TX",Rockwall
+75088,"Rowlett, TX",Dallas
+75089,"Rowlett, TX",Dallas
+75090,"Sherman, TX",Grayson
+75091,"Sherman, TX",Grayson
+75092,"Sherman, TX",Grayson
+75093,"Plano, TX",Collin
+75094,"Plano, TX",Collin
+75097,"Weston, TX",Collin
+75098,"Wylie, TX",Collin
+75099,"Coppell, TX",Dallas
+75101,"Bardwell, TX",Ellis
+75102,"Barry, TX",Navarro
+75103,"Canton, TX",Van Zandt
+75104,"Cedar Hill, TX",Dallas
+75105,"Chatfield, TX",Navarro
+75106,"Cedar Hill, TX",Dallas
+75109,"Corsicana, TX",Navarro
+75110,"Corsicana, TX",Navarro
+75114,"Crandall, TX",Kaufman
+75115,"Desoto, TX",Dallas
+75116,"Duncanville, TX",Dallas
+75117,"Edgewood, TX",Van Zandt
+75118,"Elmo, TX",Kaufman
+75119,"Ennis, TX",Ellis
+75120,"Ennis, TX",Ellis
+75121,"Copeville, TX",Collin
+75123,"Desoto, TX",Dallas
+75124,"Eustace, TX",Henderson
+75125,"Ferris, TX",Ellis
+75126,"Forney, TX",Kaufman
+75127,"Fruitvale, TX",Van Zandt
+75132,"Fate, TX",Rockwall
+75134,"Lancaster, TX",Dallas
+75135,"Caddo Mills, TX",Hunt
+75137,"Duncanville, TX",Dallas
+75138,"Duncanville, TX",Dallas
+75140,"Grand Saline, TX",Van Zandt
+75141,"Hutchins, TX",Dallas
+75142,"Kaufman, TX",Kaufman
+75143,"Kemp, TX",Kaufman
+75144,"Kerens, TX",Navarro
+75146,"Lancaster, TX",Dallas
+75147,"Mabank, TX",Kaufman
+75148,"Malakoff, TX",Henderson
+75149,"Mesquite, TX",Dallas
+75150,"Mesquite, TX",Dallas
+75151,"Corsicana, TX",Navarro
+75152,"Palmer, TX",Ellis
+75153,"Powell, TX",Navarro
+75154,"Red Oak, TX",Ellis
+75155,"Rice, TX",Navarro
+75156,"Mabank, TX",Henderson
+75157,"Rosser, TX",Kaufman
+75158,"Scurry, TX",Kaufman
+75159,"Seagoville, TX",Dallas
+75160,"Terrell, TX",Kaufman
+75161,"Terrell, TX",Kaufman
+75163,"Trinidad, TX",Henderson
+75164,"Josephine, TX",Collin
+75165,"Waxahachie, TX",Ellis
+75166,"Lavon, TX",Collin
+75167,"Waxahachie, TX",Ellis
+75168,"Waxahachie, TX",Ellis
+75169,"Wills Point, TX",Van Zandt
+75172,"Wilmer, TX",Dallas
+75173,"Nevada, TX",Collin
+75180,"Mesquite, TX",Dallas
+75181,"Mesquite, TX",Dallas
+75182,"Sunnyvale, TX",Dallas
+75185,"Mesquite, TX",Dallas
+75187,"Mesquite, TX",Dallas
+75189,"Royse City, TX",Rockwall
+75201,"Dallas, TX",Dallas
+75202,"Dallas, TX",Dallas
+75203,"Dallas, TX",Dallas
+75204,"Dallas, TX",Dallas
+75205,"Dallas, TX",Dallas
+75206,"Dallas, TX",Dallas
+75207,"Dallas, TX",Dallas
+75208,"Dallas, TX",Dallas
+75209,"Dallas, TX",Dallas
+75210,"Dallas, TX",Dallas
+75211,"Dallas, TX",Dallas
+75212,"Dallas, TX",Dallas
+75214,"Dallas, TX",Dallas
+75215,"Dallas, TX",Dallas
+75216,"Dallas, TX",Dallas
+75217,"Dallas, TX",Dallas
+75218,"Dallas, TX",Dallas
+75219,"Dallas, TX",Dallas
+75220,"Dallas, TX",Dallas
+75221,"Dallas, TX",Dallas
+75222,"Dallas, TX",Dallas
+75223,"Dallas, TX",Dallas
+75224,"Dallas, TX",Dallas
+75225,"Dallas, TX",Dallas
+75226,"Dallas, TX",Dallas
+75227,"Dallas, TX",Dallas
+75228,"Dallas, TX",Dallas
+75229,"Dallas, TX",Dallas
+75230,"Dallas, TX",Dallas
+75231,"Dallas, TX",Dallas
+75232,"Dallas, TX",Dallas
+75233,"Dallas, TX",Dallas
+75234,"Dallas, TX",Dallas
+75235,"Dallas, TX",Dallas
+75236,"Dallas, TX",Dallas
+75237,"Dallas, TX",Dallas
+75238,"Dallas, TX",Dallas
+75240,"Dallas, TX",Dallas
+75241,"Dallas, TX",Dallas
+75242,"Dallas, TX",Dallas
+75243,"Dallas, TX",Dallas
+75244,"Dallas, TX",Dallas
+75245,"Dallas, TX",Dallas
+75246,"Dallas, TX",Dallas
+75247,"Dallas, TX",Dallas
+75248,"Dallas, TX",Dallas
+75249,"Dallas, TX",Dallas
+75250,"Dallas, TX",Dallas
+75251,"Dallas, TX",Dallas
+75252,"Dallas, TX",Collin
+75253,"Dallas, TX",Dallas
+75254,"Dallas, TX",Dallas
+75258,"Dallas, TX",Dallas
+75260,"Dallas, TX",Dallas
+75261,"Dallas, TX",Dallas
+75262,"Dallas, TX",Dallas
+75263,"Dallas, TX",Dallas
+75264,"Dallas, TX",Dallas
+75265,"Dallas, TX",Dallas
+75266,"Dallas, TX",Dallas
+75267,"Dallas, TX",Dallas
+75270,"Dallas, TX",Dallas
+75275,"Dallas, TX",Dallas
+75277,"Dallas, TX",Dallas
+75283,"Dallas, TX",Dallas
+75284,"Dallas, TX",Dallas
+75285,"Dallas, TX",Dallas
+75286,"Dallas, TX",Dallas
+75287,"Dallas, TX",Collin
+75301,"Dallas, TX",Dallas
+75303,"Dallas, TX",Dallas
+75310,"Dallas, TX",Dallas
+75312,"Dallas, TX",Dallas
+75313,"Dallas, TX",Dallas
+75315,"Dallas, TX",Dallas
+75320,"Dallas, TX",Dallas
+75323,"Dallas, TX",Dallas
+75326,"Dallas, TX",Dallas
+75334,"Dallas, TX",Dallas
+75336,"Dallas, TX",Dallas
+75339,"Dallas, TX",Dallas
+75340,"Dallas, TX",Dallas
+75342,"Dallas, TX",Dallas
+75343,"Dallas, TX",Dallas
+75344,"Dallas, TX",Dallas
+75353,"Dallas, TX",Dallas
+75354,"Dallas, TX",Dallas
+75355,"Dallas, TX",Dallas
+75356,"Dallas, TX",Dallas
+75357,"Dallas, TX",Dallas
+75358,"Dallas, TX",Dallas
+75359,"Dallas, TX",Dallas
+75360,"Dallas, TX",Dallas
+75363,"Dallas, TX",Dallas
+75364,"Dallas, TX",Dallas
+75367,"Dallas, TX",Dallas
+75368,"Dallas, TX",Dallas
+75370,"Dallas, TX",Dallas
+75371,"Dallas, TX",Dallas
+75372,"Dallas, TX",Dallas
+75373,"Dallas, TX",Dallas
+75374,"Dallas, TX",Dallas
+75376,"Dallas, TX",Dallas
+75378,"Dallas, TX",Dallas
+75379,"Dallas, TX",Dallas
+75380,"Dallas, TX",Dallas
+75381,"Dallas, TX",Dallas
+75382,"Dallas, TX",Dallas
+75386,"Dallas, TX",Dallas
+75387,"Dallas, TX",Dallas
+75388,"Dallas, TX",Dallas
+75389,"Dallas, TX",Dallas
+75390,"Dallas, TX",Dallas
+75391,"Dallas, TX",Dallas
+75392,"Dallas, TX",Dallas
+75393,"Dallas, TX",Dallas
+75394,"Dallas, TX",Dallas
+75395,"Dallas, TX",Dallas
+75396,"Dallas, TX",Dallas
+75397,"Dallas, TX",Dallas
+75398,"Dallas, TX",Dallas
+75401,"Greenville, TX",Hunt
+75402,"Greenville, TX",Hunt
+75403,"Greenville, TX",Hunt
+75404,"Greenville, TX",Hunt
+75407,"Princeton, TX",Collin
+75409,"Anna, TX",Collin
+75410,"Alba, TX",Wood
+75411,"Arthur City, TX",Lamar
+75412,"Bagwell, TX",Red River
+75413,"Bailey, TX",Fannin
+75414,"Bells, TX",Grayson
+75415,"Ben Franklin, TX",Delta
+75416,"Blossom, TX",Lamar
+75417,"Bogata, TX",Red River
+75418,"Bonham, TX",Fannin
+75420,"Brashear, TX",Hopkins
+75421,"Brookston, TX",Lamar
+75422,"Campbell, TX",Hunt
+75423,"Celeste, TX",Hunt
+75424,"Blue Ridge, TX",Collin
+75425,"Chicota, TX",Lamar
+75426,"Clarksville, TX",Red River
+75428,"Commerce, TX",Hunt
+75429,"Commerce, TX",Hunt
+75431,"Como, TX",Hopkins
+75432,"Cooper, TX",Delta
+75433,"Cumby, TX",Hopkins
+75434,"Cunningham, TX",Lamar
+75435,"Deport, TX",Lamar
+75436,"Detroit, TX",Red River
+75437,"Dike, TX",Hopkins
+75438,"Dodd City, TX",Fannin
+75439,"Ector, TX",Fannin
+75440,"Emory, TX",Rains
+75441,"Enloe, TX",Delta
+75442,"Farmersville, TX",Collin
+75443,"Gober, TX",Fannin
+75444,"Golden, TX",Wood
+75446,"Honey Grove, TX",Fannin
+75447,"Ivanhoe, TX",Fannin
+75448,"Klondike, TX",Delta
+75449,"Ladonia, TX",Fannin
+75450,"Lake Creek, TX",Delta
+75451,"Leesburg, TX",Camp
+75452,"Leonard, TX",Fannin
+75453,"Lone Oak, TX",Hunt
+75454,"Melissa, TX",Collin
+75455,"Mount Pleasant, TX",Titus
+75456,"Mount Pleasant, TX",Titus
+75457,"Mount Vernon, TX",Franklin
+75458,"Merit, TX",Hunt
+75459,"Howe, TX",Grayson
+75460,"Paris, TX",Lamar
+75461,"Paris, TX",Lamar
+75462,"Paris, TX",Lamar
+75468,"Pattonville, TX",Lamar
+75469,"Pecan Gap, TX",Delta
+75470,"Petty, TX",Lamar
+75471,"Pickton, TX",Hopkins
+75472,"Point, TX",Rains
+75473,"Powderly, TX",Lamar
+75474,"Quinlan, TX",Hunt
+75475,"Randolph, TX",Fannin
+75476,"Ravenna, TX",Fannin
+75477,"Roxton, TX",Lamar
+75478,"Saltillo, TX",Hopkins
+75479,"Savoy, TX",Fannin
+75480,"Scroggins, TX",Franklin
+75481,"Sulphur Bluff, TX",Hopkins
+75482,"Sulphur Springs, TX",Hopkins
+75483,"Sulphur Springs, TX",Hopkins
+75485,"Westminster, TX",Collin
+75486,"Sumner, TX",Lamar
+75487,"Talco, TX",Franklin
+75488,"Telephone, TX",Fannin
+75489,"Tom Bean, TX",Grayson
+75490,"Trenton, TX",Fannin
+75491,"Whitewright, TX",Grayson
+75492,"Windom, TX",Fannin
+75493,"Winfield, TX",Titus
+75494,"Winnsboro, TX",Wood
+75495,"Van Alstyne, TX",Grayson
+75496,"Wolfe City, TX",Hunt
+75497,"Yantis, TX",Wood
+75686,"Pittsburg, TX",Camp
+75701,"Tyler, TX",Smith
+75702,"Tyler, TX",Smith
+75703,"Tyler, TX",Smith
+75704,"Tyler, TX",Smith
+75706,"Tyler, TX",Smith
+75708,"Tyler, TX",Smith
+75709,"Tyler, TX",Smith
+75710,"Tyler, TX",Smith
+75711,"Tyler, TX",Smith
+75712,"Tyler, TX",Smith
+75713,"Tyler, TX",Smith
+75751,"Athens, TX",Henderson
+75752,"Athens, TX",Henderson
+75754,"Ben Wheeler, TX",Van Zandt
+75755,"Big Sandy, TX",Upshur
+75756,"Brownsboro, TX",Henderson
+75758,"Chandler, TX",Henderson
+75762,"Flint, TX",Smith
+75763,"Frankston, TX",Anderson
+75765,"Hawkins, TX",Wood
+75770,"Larue, TX",Henderson
+75771,"Lindale, TX",Smith
+75773,"Mineola, TX",Wood
+75778,"Murchison, TX",Henderson
+75782,"Poynor, TX",Henderson
+75783,"Quitman, TX",Wood
+75790,"Van, TX",Van Zandt
+75792,"Winona, TX",Smith
+75797,"Big Sandy, TX",Upshur
+75798,"Tyler, TX",Smith
+75799,"Tyler, TX",Smith
+75848,"Kirvin, TX",Freestone
+75853,"Montalba, TX",Anderson
+75859,"Streetman, TX",Freestone
+76001,"Arlington, TX",Tarrant
+76002,"Arlington, TX",Tarrant
+76003,"Arlington, TX",Tarrant
+76004,"Arlington, TX",Tarrant
+76005,"Arlington, TX",Tarrant
+76006,"Arlington, TX",Tarrant
+76007,"Arlington, TX",Tarrant
+76008,"Aledo, TX",Parker
+76009,"Alvarado, TX",Johnson
+76010,"Arlington, TX",Tarrant
+76011,"Arlington, TX",Tarrant
+76012,"Arlington, TX",Tarrant
+76013,"Arlington, TX",Tarrant
+76014,"Arlington, TX",Tarrant
+76015,"Arlington, TX",Tarrant
+76016,"Arlington, TX",Tarrant
+76017,"Arlington, TX",Tarrant
+76018,"Arlington, TX",Tarrant
+76019,"Arlington, TX",Tarrant
+76020,"Azle, TX",Tarrant
+76021,"Bedford, TX",Tarrant
+76022,"Bedford, TX",Tarrant
+76023,"Boyd, TX",Wise
+76028,"Burleson, TX",Johnson
+76031,"Cleburne, TX",Johnson
+76033,"Cleburne, TX",Johnson
+76034,"Colleyville, TX",Tarrant
+76035,"Cresson, TX",Hood
+76036,"Crowley, TX",Tarrant
+76039,"Euless, TX",Tarrant
+76040,"Euless, TX",Tarrant
+76041,"Forreston, TX",Ellis
+76043,"Glen Rose, TX",Somervell
+76044,"Godley, TX",Johnson
+76048,"Granbury, TX",Hood
+76049,"Granbury, TX",Hood
+76050,"Grandview, TX",Johnson
+76051,"Grapevine, TX",Tarrant
+76052,"Haslet, TX",Tarrant
+76053,"Hurst, TX",Tarrant
+76054,"Hurst, TX",Tarrant
+76055,"Itasca, TX",Hill
+76058,"Joshua, TX",Johnson
+76059,"Keene, TX",Johnson
+76060,"Kennedale, TX",Tarrant
+76061,"Lillian, TX",Johnson
+76063,"Mansfield, TX",Tarrant
+76064,"Maypearl, TX",Ellis
+76065,"Midlothian, TX",Ellis
+76066,"Millsap, TX",Parker
+76067,"Mineral Wells, TX",Palo Pinto
+76068,"Mineral Wells, TX",Palo Pinto
+76070,"Nemo, TX",Somervell
+76071,"Newark, TX",Wise
+76073,"Paradise, TX",Wise
+76077,"Rainbow, TX",Somervell
+76078,"Rhome, TX",Wise
+76082,"Springtown, TX",Parker
+76084,"Venus, TX",Johnson
+76085,"Weatherford, TX",Parker
+76086,"Weatherford, TX",Parker
+76087,"Weatherford, TX",Parker
+76088,"Weatherford, TX",Parker
+76092,"Southlake, TX",Tarrant
+76093,"Rio Vista, TX",Johnson
+76094,"Arlington, TX",Tarrant
+76095,"Bedford, TX",Tarrant
+76096,"Arlington, TX",Tarrant
+76097,"Burleson, TX",Johnson
+76098,"Azle, TX",Parker
+76099,"Grapevine, TX",Tarrant
+76101,"Fort Worth, TX",Tarrant
+76102,"Fort Worth, TX",Tarrant
+76103,"Fort Worth, TX",Tarrant
+76104,"Fort Worth, TX",Tarrant
+76105,"Fort Worth, TX",Tarrant
+76106,"Fort Worth, TX",Tarrant
+76107,"Fort Worth, TX",Tarrant
+76108,"Fort Worth, TX",Tarrant
+76109,"Fort Worth, TX",Tarrant
+76110,"Fort Worth, TX",Tarrant
+76111,"Fort Worth, TX",Tarrant
+76112,"Fort Worth, TX",Tarrant
+76113,"Fort Worth, TX",Tarrant
+76114,"Fort Worth, TX",Tarrant
+76115,"Fort Worth, TX",Tarrant
+76116,"Fort Worth, TX",Tarrant
+76117,"Haltom City, TX",Tarrant
+76118,"Fort Worth, TX",Tarrant
+76119,"Fort Worth, TX",Tarrant
+76120,"Fort Worth, TX",Tarrant
+76121,"Fort Worth, TX",Tarrant
+76122,"Fort Worth, TX",Tarrant
+76123,"Fort Worth, TX",Tarrant
+76124,"Fort Worth, TX",Tarrant
+76126,"Fort Worth, TX",Tarrant
+76127,"Naval Air Station/ Jrb, TX",Tarrant
+76129,"Fort Worth, TX",Tarrant
+76130,"Fort Worth, TX",Tarrant
+76131,"Fort Worth, TX",Tarrant
+76132,"Fort Worth, TX",Tarrant
+76133,"Fort Worth, TX",Tarrant
+76134,"Fort Worth, TX",Tarrant
+76135,"Fort Worth, TX",Tarrant
+76136,"Fort Worth, TX",Tarrant
+76137,"Fort Worth, TX",Tarrant
+76140,"Fort Worth, TX",Tarrant
+76147,"Fort Worth, TX",Tarrant
+76148,"Fort Worth, TX",Tarrant
+76150,"Fort Worth, TX",Tarrant
+76155,"Fort Worth, TX",Tarrant
+76161,"Fort Worth, TX",Tarrant
+76162,"Fort Worth, TX",Tarrant
+76163,"Fort Worth, TX",Tarrant
+76164,"Fort Worth, TX",Tarrant
+76177,"Fort Worth, TX",Tarrant
+76179,"Fort Worth, TX",Tarrant
+76180,"North Richland Hills, TX",Tarrant
+76181,"Fort Worth, TX",Tarrant
+76182,"North Richland Hills, TX",Tarrant
+76185,"Fort Worth, TX",Tarrant
+76191,"Fort Worth, TX",Tarrant
+76192,"Fort Worth, TX",Tarrant
+76193,"Fort Worth, TX",Tarrant
+76195,"Fort Worth, TX",Tarrant
+76196,"Fort Worth, TX",Tarrant
+76197,"Fort Worth, TX",Tarrant
+76198,"Fort Worth, TX",Tarrant
+76199,"Fort Worth, TX",Tarrant
+76201,"Denton, TX",Denton
+76202,"Denton, TX",Denton
+76203,"Denton, TX",Denton
+76204,"Denton, TX",Denton
+76205,"Denton, TX",Denton
+76206,"Denton, TX",Denton
+76207,"Denton, TX",Denton
+76208,"Denton, TX",Denton
+76209,"Denton, TX",Denton
+76210,"Denton, TX",Denton
+76225,"Alvord, TX",Wise
+76226,"Argyle, TX",Denton
+76227,"Aubrey, TX",Denton
+76228,"Bellevue, TX",Clay
+76230,"Bowie, TX",Montague
+76233,"Collinsville, TX",Grayson
+76234,"Decatur, TX",Wise
+76238,"Era, TX",Cooke
+76239,"Forestburg, TX",Montague
+76240,"Gainesville, TX",Cooke
+76241,"Gainesville, TX",Cooke
+76244,"Keller, TX",Tarrant
+76245,"Gordonville, TX",Grayson
+76246,"Greenwood, TX",Wise
+76247,"Justin, TX",Denton
+76248,"Keller, TX",Tarrant
+76249,"Krum, TX",Denton
+76250,"Lindsay, TX",Cooke
+76251,"Montague, TX",Montague
+76252,"Muenster, TX",Cooke
+76253,"Myra, TX",Cooke
+76255,"Nocona, TX",Montague
+76258,"Pilot Point, TX",Denton
+76259,"Ponder, TX",Denton
+76261,"Ringgold, TX",Montague
+76262,"Roanoke, TX",Denton
+76263,"Rosston, TX",Cooke
+76264,"Sadler, TX",Grayson
+76265,"Saint Jo, TX",Montague
+76266,"Sanger, TX",Denton
+76267,"Slidell, TX",Wise
+76268,"Southmayd, TX",Grayson
+76270,"Sunset, TX",Montague
+76271,"Tioga, TX",Grayson
+76272,"Valley View, TX",Cooke
+76273,"Whitesboro, TX",Grayson
+76299,"Roanoke, TX",Denton
+76352,"Bluegrove, TX",Clay
+76357,"Byers, TX",Clay
+76365,"Henrietta, TX",Clay
+76377,"Petrolia, TX",Clay
+76379,"Scotland, TX",Archer
+76389,"Windthorst, TX",Archer
+76401,"Stephenville, TX",Erath
+76402,"Stephenville, TX",Erath
+76426,"Bridgeport, TX",Wise
+76427,"Bryson, TX",Jack
+76431,"Chico, TX",Wise
+76433,"Bluff Dale, TX",Erath
+76439,"Dennis, TX",Parker
+76449,"Graford, TX",Palo Pinto
+76450,"Graham, TX",Young
+76453,"Gordon, TX",Palo Pinto
+76458,"Jacksboro, TX",Jack
+76459,"Jermyn, TX",Jack
+76460,"Loving, TX",Young
+76462,"Lipan, TX",Hood
+76463,"Mingus, TX",Palo Pinto
+76465,"Morgan Mill, TX",Erath
+76467,"Paluxy, TX",Hood
+76472,"Santo, TX",Palo Pinto
+76475,"Strawn, TX",Palo Pinto
+76476,"Tolar, TX",Hood
+76484,"Palo Pinto, TX",Palo Pinto
+76485,"Peaster, TX",Parker
+76486,"Perrin, TX",Jack
+76487,"Poolville, TX",Parker
+76490,"Whitt, TX",Parker
+76621,"Abbott, TX",Hill
+76622,"Aquilla, TX",Hill
+76623,"Avalon, TX",Ellis
+76626,"Blooming Grove, TX",Navarro
+76627,"Blum, TX",Hill
+76628,"Brandon, TX",Hill
+76631,"Bynum, TX",Hill
+76635,"Coolidge, TX",Limestone
+76636,"Covington, TX",Hill
+76639,"Dawson, TX",Navarro
+76641,"Frost, TX",Navarro
+76644,"Laguna Park, TX",Bosque
+76645,"Hillsboro, TX",Hill
+76648,"Hubbard, TX",Hill
+76649,"Iredell, TX",Bosque
+76650,"Irene, TX",Hill
+76651,"Italy, TX",Ellis
+76652,"Kopperl, TX",Bosque
+76660,"Malone, TX",Hill
+76665,"Meridian, TX",Bosque
+76666,"Mertens, TX",Hill
+76670,"Milford, TX",Ellis
+76671,"Morgan, TX",Bosque
+76673,"Mount Calm, TX",Hill
+76676,"Penelope, TX",Hill
+76679,"Purdon, TX",Navarro
+76681,"Richland, TX",Navarro
+76684,"Ross, TX",Mclennan
+76686,"Tehuacana, TX",Limestone
+76690,"Walnut Springs, TX",Bosque
+76691,"West, TX",Mclennan
+76692,"Whitney, TX",Hill
+76693,"Wortham, TX",Freestone

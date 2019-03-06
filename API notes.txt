@@ -1,0 +1,21 @@
+
+You can use categoryId parameter.
+
+e.g. Search gym(4bf58dd8d48988d175941735):
+
+https://api.foursquare.com/v2/venues/search?ll=40.7,-74&categoryId= 4bf58dd8d48988d175941735&oauth_token=(YOUR_TOKEN)&v=20160324
+
+Daycare
+4f4532974b9074f6e4fb0104
+
+Preschool
+52e81612bcbc57f1066b7a45
+
+Nursery School
+4f4533814b9074f6e4fb0107
+
+Elementary School
+4f4533804b9074f6e4fb0105
+
+multiple categories
+https://api.foursquare.com/v2/venues/search?ll=43.250021,-79.866091&radius=25000&intent=browse&categoryId=4bf58dd8d48988d118951735,50aa9e744b90af0d42d5de0e
